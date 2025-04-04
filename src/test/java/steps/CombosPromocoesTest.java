@@ -70,7 +70,7 @@ public class CombosPromocoesTest {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		//driver.quit();
+		driver.quit();
 
 	}
 
